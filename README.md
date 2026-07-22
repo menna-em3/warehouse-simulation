@@ -18,12 +18,14 @@ An interactive 2D simulation of Autonomous Mobile Robots (AMRs) operating in a g
 
 ##  Repository Structure
 
-```text
+
 ├── main.py            # SimulationEngine & main coordination logic
 ├── components.py      # Core data structures (Robot, Package, Warehouse, Scheduler)
 ├── gui.py             # Pygame visualization and user interaction interface
 ├── map.json           # Warehouse grid setup (dimensions, walls, stations)
 └── README.md          # Project documentation
+
+________________________________________________________________________________________________________________________________________________________
 
 ## Project report:
 ## 1. Introduction & Background
