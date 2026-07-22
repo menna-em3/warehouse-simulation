@@ -1,5 +1,6 @@
 
 #  Autonomous Warehouse Robot Simulation
+# Menna Emad Al ghorra / 120220620
 
 An interactive 2D simulation of Autonomous Mobile Robots (AMRs) operating in a grid-based warehouse environment. The system models task scheduling, dynamic pathfinding via A* algorithm, obstacle avoidance, and battery management (charging cycles).
 
