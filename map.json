@@ -1,0 +1,15 @@
+{
+  "grid_size": { "width": 10, "height": 10 },
+  "walls": [[0, 0], [0, 1], [0, 2], [0, 3]],
+  "shelves": [[2, 2], [2, 3], [2, 4], [5, 2], [5, 3], [5, 4]],
+  "charging_stations": [
+    {"id": "C1", "pos": [0, 9]},
+    {"id": "C2", "pos": [1, 9]}
+  ],
+  "loading_stations": [
+    {"id": "L1", "pos": [9, 0]}
+  ],
+  "delivery_stations": [
+    {"id": "D1", "pos": [9, 9]}
+  ]
+}
